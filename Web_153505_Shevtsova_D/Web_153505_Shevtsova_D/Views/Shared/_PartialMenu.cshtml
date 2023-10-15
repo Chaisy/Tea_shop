@@ -1,0 +1,18 @@
+@{
+    // достает контролер из маршрута
+    var controller = ViewContext.RouteData.Values["controller"]?
+           .ToString()?
+           .ToLower()
+           ?? String.Empty;
+    
+}
+<!-- меню сайта -->
+<a class="navbar-brand" asp-controller="Home" asp-action="Index">15350146</a>
+<div class="navbar-nav">
+    <a class="nav-item nav-link @(controller=="home"?"active":"")" asp-controller="Home" asp-action="Index">Лб 1</a>
+    @*<a class="nav-item nav-link @(controller=="product"?"active":"")" asp-controller="Product" asp-action="Index" asp-route-pageno="1">Каталог</a>
+    <a class="nav-item nav-link @(controller=="admin"?"active":"")" asp-area="Home" asp-page="/Index">Администрирование</a>*@
+    <a class="nav-item nav-link @(controller=="teaproduct"?"active":"")" asp-controller="TeaProduct" asp-action="Index" asp-route-pageno="1">Каталог</a>
+    <a class="nav-item nav-link" href="#">Администрирование</a>
+</div>
+<!-- меню сайта - конец -->

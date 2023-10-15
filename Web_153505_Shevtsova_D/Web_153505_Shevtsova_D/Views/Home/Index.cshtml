@@ -1,0 +1,72 @@
+@{
+    ViewBag.Title = "Index";
+}
+@model SelectList	
+
+
+<h2>@ViewData["text"]</h2>
+<h3>Список</h3>
+<ol type="A">
+    @for (int i = 1; i <= 5; i++)
+    {
+        <li>Элемент @i списка</li>
+    }
+    
+</ol>
+<hr>
+<h3>Форма</h3>
+<form post>
+    <label for="list">Выберите модель:</label>
+    <div>
+        <select class="selectItem" name="ListDemo" asp-items="Model"></select>
+    </div>
+    <div class="checkboxes">
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck1" name="chek1">
+            <label class="form-check-label" for="gridCheck1">
+                Чек-бокс 1
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck2" name="chek2">
+            <label class="form-check-label" for="gridCheck2">
+                Чек-бокс 2
+            </label>
+        </div>
+    </div>
+    <div class="radioButtons">
+        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1"
+               checked name="radio1">
+        <label class="form-check-label" for="gridRadios1">
+            Радио 1
+        </label>
+
+        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2"
+               name="radio2">
+        <label class="form-check-label" for="gridRadios2">
+            Радио 2
+        </label>
+
+        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3"
+               name="radio3">
+        <label class="form-check-label" for="gridRadios3">
+            Радио 3
+        </label>
+
+    </div>
+    <div class="row mb-3">
+        <label for="inputlogin" class="col-sm-2 col-form-label">Логин</label>
+        <div class="col-sm-10">
+            <input type="email" class="form-control" id="inputlogin" placeholder="Логин" name="loginInp">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Пароль</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" id="inputPassword" placeholder="Пароль" name="passwInp">
+        </div>
+    </div>
+    <button type="submit" class="btn">Отправить</button>
+</form>
+
+

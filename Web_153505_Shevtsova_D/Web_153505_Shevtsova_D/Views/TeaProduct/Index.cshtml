@@ -1,0 +1,126 @@
+@using Web_153505_Shevtsova_D.Controllers;
+@using Web_153505_Shevtsova_D.Domain.Models;
+@model ListModel<Tea>
+
+@{
+    ViewData["Title"] = "Index";
+
+    var request = ViewContext.HttpContext.Request;
+
+   
+    var returnUrl = request.Path + request.QueryString.ToUriComponent();
+
+    string? category = request.Query["category"].ToString();
+
+    // корректное получение предыдущей и следующей страницы
+    // надо для кнопок взад и вперед
+    int prev = Model.CurrentPage == 1
+         ? 1
+         : Model.CurrentPage - 1;
+
+    int next = Model.CurrentPage == Model.TotalPages
+    ? Model.TotalPages
+    : Model.CurrentPage + 1;
+}
+
+<h1>Index</h1>
+
+<p>
+    <h2>Tea Bases</h2>
+</p>
+
+
+
+
+<div class="row justify-content-start">
+    <div class="col-2">
+        <div class="col-2 border-2"><!-- выбор категории -->
+            <ul class="nav ">
+                <li class="nav-item dropdown">
+                    <!-- отображение действительной категории начало -->
+                    <a class="nav-link dropdown-toggle" 
+                       data-bs-toggle="dropdown"
+                       href="#"
+                       role="button"
+                       aria-expanded="false">
+                        @ViewData["currentCategory"]
+                    </a>
+                    <!-- отображение действительной категории конец -->
+
+                    <!-- отображение всех категорий начало -->
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a class="dropdown-item"
+                               asp-controller="TeaProduct"
+                               asp-route-category=@null
+                               asp-route-pageno="1">Все</a>
+                        </li>
+                        @foreach (var item in ViewBag.categories)
+                        {
+                            <li>
+                                <a class="dropdown-item"
+                                   asp-controller="TeaProduct"
+                                   asp-route-category="@item.NormalizedName"
+                                   asp-route-pageno="1">
+                                    @item.Name
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                    <!-- отображение всех категорий конец -->
+                </li>
+            </ul>
+        </div><!-- выбор категории -->
+    </div>
+
+    <!-- карточки  начало -->
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model.Items) {
+    <div class="col" height="805">
+        <div class="card">
+            <img src="@item.PhotoPath" width="350"  class="card-img-top" alt="...">
+            <div class="card-body">
+                    <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Name)</h5>
+                    <p class="card-text">@item.Description</p>
+                    <a asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id" asp-route-returnurl="@returnUrl" 
+                       class="btn btn-outline-secondary">Add to cart</a> 
+            </div>
+        </div>
+    </div>
+    }
+</div>
+    
+<div  class="row"> <!-- страницы начало -->
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item"> <!-- кнопка назад -->
+                <a class="page-link"
+                    asp-controller="TeaProduct"
+                    asp-route-category="@category"
+                    asp-route-pageno="@prev">
+                    Prev
+                </a>
+            </li>   
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(Model.CurrentPage==i ? "active" : "")"> <!-- кнопка с номером страницы -->
+                    <a class="page-link"
+                        asp-controller="TeaProduct"
+                        asp-route-category="@category"
+                        asp-route-pageno="@i">
+                        @i
+                    </a>
+                </li> <!-- кнопка с номером страницы -->
+            }
+            <li class="page-item"> <!-- кнопка вперед -->
+                <a class="page-link" 
+                   asp-controller="TeaProduct"
+                   asp-route-category="@category"
+                   asp-route-pageno="@next">Next</a>
+            </li> <!-- кнопка вперед -->
+        </ul>
+    </nav>
+</div><!-- страницы конец -->
+
+</div>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Web_153505_Shevtsova_D.Domain/1.0.0": {
+        "runtime": {
+          "Web_153505_Shevtsova_D.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web_153505_Shevtsova_D.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

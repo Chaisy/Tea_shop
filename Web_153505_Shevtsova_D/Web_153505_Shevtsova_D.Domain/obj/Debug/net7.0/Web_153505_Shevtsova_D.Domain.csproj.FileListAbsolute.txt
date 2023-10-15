@@ -1,0 +1,11 @@
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/bin/Debug/net7.0/Web_153505_Shevtsova_D.Domain.deps.json
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/bin/Debug/net7.0/Web_153505_Shevtsova_D.Domain.dll
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/bin/Debug/net7.0/Web_153505_Shevtsova_D.Domain.pdb
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.AssemblyInfoInputs.cache
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.AssemblyInfo.cs
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.csproj.CoreCompileInputs.cache
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.dll
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/refint/Web_153505_Shevtsova_D.Domain.dll
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/Web_153505_Shevtsova_D.Domain.pdb
+/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/Debug/net7.0/ref/Web_153505_Shevtsova_D.Domain.dll

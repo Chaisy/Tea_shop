@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/blacktea.jpeg",
+      "PackagePath": "staticwebassets/Images/blacktea.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/budda.jpeg",
+      "PackagePath": "staticwebassets/Images/budda.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
+      "PackagePath": "staticwebassets/Images/lapacho.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lavenderapple.jpeg",
+      "PackagePath": "staticwebassets/Images/lavenderapple.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/masala.jpeg",
+      "PackagePath": "staticwebassets/Images/masala.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/matcha.jpeg",
+      "PackagePath": "staticwebassets/Images/matcha.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/peachtea.jpeg",
+      "PackagePath": "staticwebassets/Images/peachtea.jpeg"
+    },
+    {
+      "Id": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/taiga.jpeg",
+      "PackagePath": "staticwebassets/Images/taiga.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Web_153505_Shevtsova_D.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Web_153505_Shevtsova_D.API.props",
+      "PackagePath": "build\\Web_153505_Shevtsova_D.API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web_153505_Shevtsova_D.API.props",
+      "PackagePath": "buildMultiTargeting\\Web_153505_Shevtsova_D.API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Web_153505_Shevtsova_D.API.props",
+      "PackagePath": "buildTransitive\\Web_153505_Shevtsova_D.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

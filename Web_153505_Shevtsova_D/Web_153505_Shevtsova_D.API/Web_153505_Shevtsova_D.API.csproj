@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>fdb4a357-6035-4572-a559-a3054b235533</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.12" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.10" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Web_153505_Shevtsova_D.Domain\Web_153505_Shevtsova_D.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.EntityFrameworkCore.Sqlite">
+        <HintPath>..\..\..\..\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\6.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

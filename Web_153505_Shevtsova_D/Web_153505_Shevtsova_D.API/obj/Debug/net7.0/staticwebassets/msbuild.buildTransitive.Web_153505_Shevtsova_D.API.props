@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Web_153505_Shevtsova_D.API.props" />
+</Project>
