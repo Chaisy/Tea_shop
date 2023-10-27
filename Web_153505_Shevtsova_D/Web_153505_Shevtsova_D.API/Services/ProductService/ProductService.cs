@@ -14,8 +14,7 @@ namespace Web_153505_Shevtsova_D.API.Services.ProductService
         private readonly IWebHostEnvironment env;
         private readonly IHttpContextAccessor accessor;
 
-        public ProductService(AppDbContext context, ConfigurationManager configurationManager,
-                            ConfigurationService configurationService, IWebHostEnvironment env,
+        public ProductService(AppDbContext context, ConfigurationManager configurationManager, IWebHostEnvironment env,
                             IHttpContextAccessor accessor)
         {
             _context = context;

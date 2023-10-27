@@ -21,7 +21,7 @@ var uriData = builder.Configuration["UriData:ApiUri"];
 builder.Services
     .AddHttpClient<IProductService, ApiProductService>(opt =>
         opt.BaseAddress = new Uri(uriData!));
-
+//
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();

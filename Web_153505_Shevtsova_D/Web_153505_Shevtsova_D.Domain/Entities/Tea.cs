@@ -22,5 +22,5 @@ public class Tea
 
     public string? PhotoPath { get; set; }
 
-    public string MIMEType { get; set; }
+   // public string MIMEType { get; set; }
 }

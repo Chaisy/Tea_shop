@@ -18,7 +18,7 @@ builder.Services.AddScoped(typeof(ICategoryService), typeof(CategoryService));
 
 builder.Services.AddDbContext<AppDbContext>(options => 
     options.UseSqlite(builder.Configuration.GetConnectionString("Default")));
-
+builder.Services.AddSingleton(builder.Configuration);
 builder.Services.AddMvc().AddJsonOptions(options =>
 {
     options.JsonSerializerOptions.WriteIndented = true;
@@ -29,13 +29,13 @@ var app = builder.Build();
 // await DbInitializer.SeedData(app);
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+//if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
