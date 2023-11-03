@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,7 +12,7 @@ using Web_153505_Shevtsova_D.API.Services.ProductService;
 using Web_153505_Shevtsova_D.Domain.Entities;
 using Web_153505_Shevtsova_D.Domain.Models;
 
-namespace Web_153505_Shevtsova_D.API.Controllers
+namespace WEB_153501_BYCHKO.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -67,14 +68,13 @@ namespace Web_153505_Shevtsova_D.API.Controllers
                 return NotFound();
             }
 
-
+            //return tea;
             return Ok(response);
         }
 
         // PUT: api/Teas/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        [Authorize]
         public async Task<ActionResult<ResponseData<Tea>>> PutTea(int id, Tea tea)
         {
             if (id != tea.Id)
@@ -98,21 +98,21 @@ namespace Web_153505_Shevtsova_D.API.Controllers
                     throw;
                 }
             }
+
+            return NoContent();
         }
 
         // POST: api/Teas
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        [Authorize]
         public async Task<ActionResult<Tea>> PostTea(Tea tea)
         {
-           await _service.CreateProductAsync(tea);
+            await _service.CreateProductAsync(tea);
             return CreatedAtAction("GetTea", new { id = tea.Id }, tea);
         }
 
-        // DELETE: api/Tea/5
+        // DELETE: api/Teas/5
         [HttpDelete("{id}")]
-        [Authorize]
         public async Task<IActionResult> DeleteTea(int id)
         {
             await _service.DeleteProductAsync(id);
@@ -133,7 +133,6 @@ namespace Web_153505_Shevtsova_D.API.Controllers
 
         // POST: api/Teas/5
         [HttpPost("{id}")]
-        [Authorize]
         public async Task<ActionResult<ResponseData<string>>> PostImage(
                                                                 int id,
                                                                 IFormFile formFile)

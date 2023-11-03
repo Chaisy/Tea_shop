@@ -14,13 +14,13 @@ public class Tea
 
     public string Description { get; set; }
 
-    //public int CategoryId { get; set; }
+    public int CategoryId { get; set; }
 
     public TeaBasesCategory? Category { get; set; }
 
     public int Price { get; set; }
 
-    public string? PhotoPath { get; set; }
+    public string? PhotoPath { get; set; } = null;
 
-   // public string MIMEType { get; set; }
+    public string? MIMEType { get; set; } = null;
 }

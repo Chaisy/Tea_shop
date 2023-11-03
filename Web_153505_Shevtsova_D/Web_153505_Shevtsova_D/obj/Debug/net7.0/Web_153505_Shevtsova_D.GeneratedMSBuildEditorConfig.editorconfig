@@ -16,6 +16,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

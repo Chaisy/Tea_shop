@@ -23,9 +23,10 @@
         </nav> <!-- Панель навигации - конец -->
     </div>
 </header>
-    <main class="container">
-       @RenderBody()
-        </main>
+<main class="container">
+    @RenderBody()
+</main>
+ @RenderSection("scripts", required: false)
 <footer>
     <div class="navbar navbar-dark navbar-expand-md bg-dark">
         <div class="navbar-nav ms-auto">

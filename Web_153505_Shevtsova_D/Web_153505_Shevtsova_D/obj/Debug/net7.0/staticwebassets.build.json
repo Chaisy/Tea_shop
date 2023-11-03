@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iW+Xwtdjlmov25MxryxhDIsrZHsadvGCwemIBxJA7us=",
+  "Hash": "IZiiD2siZG+CujKSRs69Gc8koTHNUuac8mRlH1buo7U=",
   "Source": "Web_153505_Shevtsova_D",
   "BasePath": "_content/Web_153505_Shevtsova_D",
   "Mode": "Default",
@@ -1090,6 +1090,23 @@
       "OriginalItemSpec": "wwwroot/Images/budda.jpeg"
     },
     {
+      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/fo3mtgjo.jpg",
+      "SourceId": "Web_153505_Shevtsova_D.API",
+      "SourceType": "Project",
+      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "BasePath": "_content/Web_153505_Shevtsova_D.API",
+      "RelativePath": "Images/fo3mtgjo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/fo3mtgjo.jpg"
+    },
+    {
       "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
@@ -1175,12 +1192,12 @@
       "OriginalItemSpec": "wwwroot/Images/peachtea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/taiga.jpeg",
+      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/reserve.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
       "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
-      "RelativePath": "Images/taiga.jpeg",
+      "RelativePath": "Images/reserve.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1189,7 +1206,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/taiga.jpeg"
+      "OriginalItemSpec": "wwwroot/Images/reserve.jpeg"
     },
     {
       "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/Web_153505_Shevtsova_D.styles.css",
