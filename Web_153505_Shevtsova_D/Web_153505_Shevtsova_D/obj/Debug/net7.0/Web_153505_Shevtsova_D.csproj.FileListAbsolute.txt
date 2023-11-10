@@ -608,3 +608,12 @@
 /home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/ref/Web_153505_Shevtsova_D.dll
 /home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/bin/Debug/net7.0/Serilog.Sinks.File.dll

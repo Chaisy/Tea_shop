@@ -45,8 +45,21 @@ public static class Config
                 FrontChannelLogoutUri = "https://localhost:7001/signout-oidc",
                 PostLogoutRedirectUris = { "https://localhost:7001/signout-callback-oidc" },
                 AllowOfflineAccess = true,
-                AllowedScopes = { "openid", "profile", "api.read","api.write"
-                }
+                AllowedScopes = { "openid", "profile", "api.read","api.write" }
             },
+            new Client
+            {
+                ClientId = "blazorApp",
+                AllowedGrantTypes = GrantTypes.Code,
+                RequireClientSecret = false,
+                RedirectUris = {
+                    "https://localhost:7004/authentication/login-callback" },
+                PostLogoutRedirectUris = {
+                    "https://localhost:7004/authentication/logout-callback" },
+                AllowedCorsOrigins = { "https://localhost:7004" },
+
+                AllowOfflineAccess = true,
+                AllowedScopes = { "openid", "profile", "api.read","api.write"}
+            }
         };
 }
