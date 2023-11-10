@@ -9,85 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_153505_Shevtsova_D
 build_property.RootNamespace = Web_153505_Shevtsova_D
-build_property.ProjectDir = /home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/
+build_property.ProjectDir = /home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D
+build_property.MSBuildProjectDirectory = /home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Create.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Delete.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Details.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Edit.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Index.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewImports.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewStart.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Admin/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Identity/Pages/_ViewStart.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Home/Index.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/Components/Cart/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydC9EZWZhdWx0LmNzaHRtbA==
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/Components/OrderCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvT3JkZXJDYXJ0L0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/Error.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_Layout.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_PartialMenu.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_PartialMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_PartialUserInfo.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_PartialUserInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsVXNlckluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_ProductCadsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0Q2Fkc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/TeaProduct/Index.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/TeaProduct/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhUHJvZHVjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/_ViewImports.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/_ViewStart.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_Layout_OLD.cshtml]
+[/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Views/Shared/_Layout_OLD.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRfT0xELmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-7ngnqzys5t

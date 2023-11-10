@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Web_153505_Shevtsova_D.Domain.Entities;
-using Web_153505_Shevtsova_D.Domain.Models;
+using Web_153505_Shevtsova_D.Extensions;
 using Web_153505_Shevtsova_D.Services.TeaBasesService;
 using Web_153505_Shevtsova_D.Services.ProductService;
 
@@ -18,6 +17,7 @@ namespace Web_153505_Shevtsova_D.Controllers
             this._categoryService = categoryService;
         }
 
+        [Route("Catalog/{category?}", Name = "catalog")]
         public async Task<IActionResult> Index(string? category, int pageno)
         {
             // получаем список чаев
@@ -29,7 +29,11 @@ namespace Web_153505_Shevtsova_D.Controllers
                 return NotFound(productResponse.ErrorMessage);
 
             // получаем все категории
-            var categories = _categoryService.GetCategoryListAsync().Result.Data;
+            var categoriesResponse = await _categoryService.GetCategoryListAsync();
+            if (!categoriesResponse.Success)
+                return NotFound(categoriesResponse.ErrorMessage);
+
+            var categories = categoriesResponse.Data;
 
             // currentCategory вынесено в отдельную переменную, чтобы проверить на null и, в случае null, передать 
             // в представление строку "Все"
@@ -39,6 +43,10 @@ namespace Web_153505_Shevtsova_D.Controllers
             ViewData["currentCategory"] = currentCategory == null ? "ALL" : currentCategory.Name;
             ViewBag.categories = categories;
 
+            if (Request.IsAjaxRequest())
+            {
+                return PartialView("_ProductCadsPartial", productResponse.Data);//СПРОСИ ЧТО ЗА _FurnituriesPartial
+            }
             return View(productResponse.Data);
         }
     }

@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_153505_Shevtsova_D.API"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_153505_Shevtsova_D.Domain", "Web_153505_Shevtsova_D.Domain\Web_153505_Shevtsova_D.Domain.csproj", "{C7EF6D5E-F42E-4AE5-AF2E-AEF610D2A197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_153505_Shevtsova_D.IdentityServer", "Web_153505_Shevtsova_D.IdentityServer\Web_153505_Shevtsova_D.IdentityServer.csproj", "{F359A30C-0169-43CB-8D21-E0F7E0B05776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_153505_Shevtsova_D.Tests", "Web_153505_Shevtsova_D.Tests\Web_153505_Shevtsova_D.Tests.csproj", "{EDB07681-F50F-4FC5-BDB0-41D486FC7E27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{C7EF6D5E-F42E-4AE5-AF2E-AEF610D2A197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7EF6D5E-F42E-4AE5-AF2E-AEF610D2A197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7EF6D5E-F42E-4AE5-AF2E-AEF610D2A197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F359A30C-0169-43CB-8D21-E0F7E0B05776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F359A30C-0169-43CB-8D21-E0F7E0B05776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F359A30C-0169-43CB-8D21-E0F7E0B05776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F359A30C-0169-43CB-8D21-E0F7E0B05776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB07681-F50F-4FC5-BDB0-41D486FC7E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB07681-F50F-4FC5-BDB0-41D486FC7E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB07681-F50F-4FC5-BDB0-41D486FC7E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB07681-F50F-4FC5-BDB0-41D486FC7E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

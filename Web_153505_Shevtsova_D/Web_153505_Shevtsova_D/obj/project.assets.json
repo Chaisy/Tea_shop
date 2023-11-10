@@ -640,6 +640,44 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Microsoft.AspNetCore.Authentication.OpenIdConnect/7.0.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/7.0.12": {
         "type": "package",
         "compile": {
@@ -4302,6 +4340,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.13",
           "Microsoft.EntityFrameworkCore": "7.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.12",
@@ -5114,6 +5153,36 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.13": {
+      "sha512": "h1B5heq5d7vRC/0CuXlcvNpKzIgZi11b9iURRBDAOSigWXTZlq62Tzix+zyIvOx5xeydE/tniTNSaqeJBQNB3Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/7.0.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.OpenIdConnect/7.0.13": {
+      "sha512": "+KVH7N1zhPKVTeS4WdEnviJ2ipah6haLuOTrhk2bu4j4FGhaOzU+01PhJ8qMMWJGncQQI8178wjD+URFIIcYOg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.openidconnect/7.0.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.xml",
+        "microsoft.aspnetcore.authentication.openidconnect.7.0.13.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.openidconnect.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.12": {
@@ -12433,6 +12502,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 7.0.13",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 7.0.12",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.12",
       "Microsoft.AspNetCore.Identity.UI >= 7.0.12",
@@ -12448,11 +12518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
+      "projectUniqueName": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
       "projectName": "Web_153505_Shevtsova_D",
-      "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
+      "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
       "packagesPath": "/home/dari/.nuget/packages/",
-      "outputPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/",
+      "outputPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dari/.nuget/NuGet/NuGet.Config"
@@ -12467,11 +12537,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
-              "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj"
+            "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
+              "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj"
             },
-            "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
-              "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
+            "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
+              "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
             }
           }
         }
@@ -12486,6 +12556,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+            "target": "Package",
+            "version": "[7.0.13, )"
+          },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.12, )"

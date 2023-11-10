@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj": {}
+    "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj": {}
   },
   "projects": {
-    "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
+    "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
+        "projectUniqueName": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
         "projectName": "Web_153505_Shevtsova_D.API",
-        "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
+        "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
         "packagesPath": "/home/dari/.nuget/packages/",
-        "outputPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/obj/",
+        "outputPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dari/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
-                "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
+              "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
+                "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"
@@ -92,14 +96,14 @@
         }
       }
     },
-    "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
+    "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj",
+        "projectUniqueName": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj",
         "projectName": "Web_153505_Shevtsova_D.Domain",
-        "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj",
+        "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj",
         "packagesPath": "/home/dari/.nuget/packages/",
-        "outputPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/",
+        "outputPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dari/.nuget/NuGet/NuGet.Config"
@@ -145,14 +149,14 @@
         }
       }
     },
-    "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj": {
+    "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
+        "projectUniqueName": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
         "projectName": "Web_153505_Shevtsova_D",
-        "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
+        "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.csproj",
         "packagesPath": "/home/dari/.nuget/packages/",
-        "outputPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/",
+        "outputPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dari/.nuget/NuGet/NuGet.Config"
@@ -167,11 +171,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
-                "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj"
+              "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj": {
+                "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj"
               },
-              "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
-                "projectPath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
+              "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj": {
+                "projectPath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.Domain/Web_153505_Shevtsova_D.Domain.csproj"
               }
             }
           }
@@ -186,6 +190,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"

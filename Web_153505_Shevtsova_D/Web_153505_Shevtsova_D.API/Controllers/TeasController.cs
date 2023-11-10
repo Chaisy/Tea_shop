@@ -75,6 +75,7 @@ namespace WEB_153501_BYCHKO.API.Controllers
         // PUT: api/Teas/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<ActionResult<ResponseData<Tea>>> PutTea(int id, Tea tea)
         {
             if (id != tea.Id)
@@ -105,6 +106,7 @@ namespace WEB_153501_BYCHKO.API.Controllers
         // POST: api/Teas
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Tea>> PostTea(Tea tea)
         {
             await _service.CreateProductAsync(tea);
@@ -113,6 +115,7 @@ namespace WEB_153501_BYCHKO.API.Controllers
 
         // DELETE: api/Teas/5
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> DeleteTea(int id)
         {
             await _service.DeleteProductAsync(id);
@@ -133,6 +136,7 @@ namespace WEB_153501_BYCHKO.API.Controllers
 
         // POST: api/Teas/5
         [HttpPost("{id}")]
+        [Authorize]
         public async Task<ActionResult<ResponseData<string>>> PostImage(
                                                                 int id,
                                                                 IFormFile formFile)

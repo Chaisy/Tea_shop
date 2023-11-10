@@ -26,7 +26,7 @@ namespace Web_153505_Shevtsova_D.API.Data
                         new TeaBasesCategory { Name = "Leaves", NormalizedName = "listia" },
                         new TeaBasesCategory { Name = "Roots", NormalizedName = "korni" },
                         new TeaBasesCategory { Name = "Flowers", NormalizedName = "tsveti" },
-                        new TeaBasesCategory { Name = "турбовентиляторный", NormalizedName = "kora" },
+                        new TeaBasesCategory { Name = "Bark", NormalizedName = "kora" },
                         new TeaBasesCategory{Name = "Fruits", NormalizedName= "frukti"}
                     );
             }

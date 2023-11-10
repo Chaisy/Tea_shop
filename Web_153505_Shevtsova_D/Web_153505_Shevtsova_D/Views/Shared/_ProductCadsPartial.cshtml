@@ -1,0 +1,22 @@
+@{
+    var request = ViewContext.HttpContext.Request;
+    // понадобится когда то после 3 лабы
+    var returnUrl = request.Path + request.QueryString.ToUriComponent();
+}
+<!-- карточки с самолетами начало -->
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model.Items) {
+        <div class="col" height="805">
+            <div class="card">
+                <img src="@item.PhotoPath" width="350"  class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"> @item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <a asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id" asp-route-returnurl="@returnUrl" 
+                       class="btn btn-outline-secondary">Add to cart</a> 
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

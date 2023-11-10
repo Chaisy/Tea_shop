@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.IdentityServer/obj/.store/.stage/twnw2b0y.efw</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.IdentityServer/obj/.store/.stage/twnw2b0y.efw</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.IdentityServer/obj/.store/.stage/twnw2b0y.efw/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.IdentityServer/obj/.store/.stage/twnw2b0y.efw/dotnet-aspnet-codegenerator/6.0.16</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>

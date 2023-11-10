@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vX1xUOrAZCjUHSk/BUm+1TEMvjeNpj3Xoun1aL+2+D13H0KypZC/xZCGURzU9a6jGDgo6vgPH7rITyxtPpjwnA==",
+  "dgSpecHash": "+3X0UROJ32h5LhIxzmdWBDTJyAoG+zosJs69wPBaXQpCHFAa6Q2Y3MPHaFnFMTRfW9NS0fLOBk6Qki++IlfJ3w==",
   "success": true,
-  "projectFilePath": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
+  "projectFilePath": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
   "expectedPackageFiles": [
     "/home/dari/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/dari/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
@@ -56,6 +56,7 @@
     "/home/dari/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/home/dari/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/home/dari/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "/home/dari/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.13/microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "/home/dari/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.11/microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "/home/dari/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/dari/.nuget/packages/microsoft.build/17.3.2/microsoft.build.17.3.2.nupkg.sha512",

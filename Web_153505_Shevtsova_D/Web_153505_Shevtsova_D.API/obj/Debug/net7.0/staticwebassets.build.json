@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fo+3zEEp36v7u0VXzp+sbHS0ofWHsh6yRqls4XccgKE=",
+  "Hash": "uDPVCRrGZZSwCXJMHvw+j3QjUcI9AH19jZi0SuRB/uY=",
   "Source": "Web_153505_Shevtsova_D.API",
   "BasePath": "_content/Web_153505_Shevtsova_D.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web_153505_Shevtsova_D.API/wwwroot",
       "Source": "Web_153505_Shevtsova_D.API",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/blacktea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/blacktea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/blacktea.jpeg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot/Images/blacktea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/budda.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/budda.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/budda.jpeg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/Images/budda.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/fo3mtgjo.jpg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/fo3mtgjo.jpg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/fo3mtgjo.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/Images/fo3mtgjo.jpg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/lapacho.jpeg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/Images/lapacho.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lavenderapple.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lavenderapple.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/lavenderapple.jpeg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/Images/lavenderapple.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/masala.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/masala.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/masala.jpeg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/Images/masala.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/matcha.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/matcha.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/matcha.jpeg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/Images/matcha.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/peachtea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/peachtea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/peachtea.jpeg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/Images/peachtea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/reserve.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/reserve.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/reserve.jpeg",
       "AssetKind": "All",

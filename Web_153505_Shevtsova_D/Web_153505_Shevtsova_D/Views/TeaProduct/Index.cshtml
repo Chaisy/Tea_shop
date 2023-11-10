@@ -3,10 +3,12 @@
 @model ListModel<Tea>
 
 @{
-    ViewData["Title"] = "Index";
+    //ViewData["Title"] = "Index";
+    ViewData["Title"] = "View";
+
+    
 
     var request = ViewContext.HttpContext.Request;
-
    
     var returnUrl = request.Path + request.QueryString.ToUriComponent();
 
@@ -75,7 +77,7 @@
 
     <!-- карточки  начало -->
 
-<div class="row row-cols-1 row-cols-md-3 g-4">
+    @*<div class="row row-cols-1 row-cols-md-3 g-4">
     @foreach (var item in Model.Items) {
     <div class="col" height="805">
         <div class="card">
@@ -89,11 +91,12 @@
         </div>
     </div>
     }
-</div>
+</div>*@
+    <partial name="_ProductCadsPartial" />
     
 <div  class="row"> <!-- страницы начало -->
     <nav aria-label="Page navigation example">
-        <ul class="pagination">
+        @*<ul class="pagination">
             <li class="page-item"> <!-- кнопка назад -->
                 <a class="page-link"
                     asp-controller="TeaProduct"
@@ -119,7 +122,12 @@
                    asp-route-category="@category"
                    asp-route-pageno="@next">Next</a>
             </li> <!-- кнопка вперед -->
-        </ul>
+        </ul>*@
+                <Pager current-page="@Model.CurrentPage"
+                       total-pages="@Model.TotalPages"
+                       category="@category">
+        
+                </Pager>
     </nav>
 </div><!-- страницы конец -->
 

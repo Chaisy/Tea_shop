@@ -12,7 +12,7 @@
     <a class="nav-item nav-link @(controller=="home"?"active":"")" asp-controller="Home" asp-action="Index">Лб 1</a>
     @*<a class="nav-item nav-link @(controller=="product"?"active":"")" asp-controller="Product" asp-action="Index" asp-route-pageno="1">Каталог</a>
     <a class="nav-item nav-link @(controller=="admin"?"active":"")" asp-area="Home" asp-page="/Index">Администрирование</a>*@
-    <a class="nav-item nav-link @(controller=="teaproduct"?"active":"")" asp-controller="TeaProduct" asp-action="Index" asp-route-pageno="1">Каталог</a>
+    <a class="nav-item nav-link @(controller=="teaproduct"?"active":"")" asp-route="catalog" asp-route-pageno="1">Каталог</a>
     <a class="nav-item nav-link @(controller=="admin"?"active":"")" asp-area="admin" asp-page="/Index">Администрирование</a>
 </div>
 <!-- меню сайта - конец -->

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "IZiiD2siZG+CujKSRs69Gc8koTHNUuac8mRlH1buo7U=",
+  "Hash": "+xhzh1OWae0parp+cfKDMlHqfGAn+lvNpthfWITrGGE=",
   "Source": "Web_153505_Shevtsova_D",
   "BasePath": "_content/Web_153505_Shevtsova_D",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/Web_153505_Shevtsova_D.API.csproj",
       "Version": 2,
       "Source": "Web_153505_Shevtsova_D.API",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,14 +22,14 @@
     {
       "Name": "Web_153505_Shevtsova_D.API/wwwroot",
       "Source": "Web_153505_Shevtsova_D.API",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "Pattern": "**"
     },
     {
       "Name": "Web_153505_Shevtsova_D/wwwroot",
       "Source": "Web_153505_Shevtsova_D",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "Pattern": "**"
     }
@@ -1056,10 +1056,10 @@
       "OriginalItemSpec": "/home/dari/.nuget/packages/microsoft.aspnetcore.identity.ui/7.0.12/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/blacktea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/blacktea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/blacktea.jpeg",
       "AssetKind": "All",
@@ -1073,10 +1073,10 @@
       "OriginalItemSpec": "wwwroot/Images/blacktea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/budda.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/budda.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/budda.jpeg",
       "AssetKind": "All",
@@ -1090,10 +1090,10 @@
       "OriginalItemSpec": "wwwroot/Images/budda.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/fo3mtgjo.jpg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/fo3mtgjo.jpg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/fo3mtgjo.jpg",
       "AssetKind": "All",
@@ -1107,10 +1107,10 @@
       "OriginalItemSpec": "wwwroot/Images/fo3mtgjo.jpg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lapacho.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/lapacho.jpeg",
       "AssetKind": "All",
@@ -1124,10 +1124,10 @@
       "OriginalItemSpec": "wwwroot/Images/lapacho.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lavenderapple.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/lavenderapple.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/lavenderapple.jpeg",
       "AssetKind": "All",
@@ -1141,10 +1141,10 @@
       "OriginalItemSpec": "wwwroot/Images/lavenderapple.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/masala.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/masala.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/masala.jpeg",
       "AssetKind": "All",
@@ -1158,10 +1158,10 @@
       "OriginalItemSpec": "wwwroot/Images/masala.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/matcha.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/matcha.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/matcha.jpeg",
       "AssetKind": "All",
@@ -1175,10 +1175,10 @@
       "OriginalItemSpec": "wwwroot/Images/matcha.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/peachtea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/peachtea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/peachtea.jpeg",
       "AssetKind": "All",
@@ -1192,10 +1192,10 @@
       "OriginalItemSpec": "wwwroot/Images/peachtea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/reserve.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/Images/reserve.jpeg",
       "SourceId": "Web_153505_Shevtsova_D.API",
       "SourceType": "Project",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D.API/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D.API",
       "RelativePath": "Images/reserve.jpeg",
       "AssetKind": "All",
@@ -1209,10 +1209,10 @@
       "OriginalItemSpec": "wwwroot/Images/reserve.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/Web_153505_Shevtsova_D.styles.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/Web_153505_Shevtsova_D.styles.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Computed",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Web_153505_Shevtsova_D.styles.css",
       "AssetKind": "All",
@@ -1223,13 +1223,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/Web_153505_Shevtsova_D.styles.css"
+      "OriginalItemSpec": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/bundle/Web_153505_Shevtsova_D.styles.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/Web_153505_Shevtsova_D.bundle.scp.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/Web_153505_Shevtsova_D.bundle.scp.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Computed",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Web_153505_Shevtsova_D.bundle.scp.css",
       "AssetKind": "All",
@@ -1240,13 +1240,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/Web_153505_Shevtsova_D.bundle.scp.css"
+      "OriginalItemSpec": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/obj/Debug/net7.0/scopedcss/projectbundle/Web_153505_Shevtsova_D.bundle.scp.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/css/site.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/css/site.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1260,10 +1260,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/favicon.ico",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/favicon.ico",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/blacktea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/blacktea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/blacktea.jpeg",
       "AssetKind": "All",
@@ -1294,10 +1294,10 @@
       "OriginalItemSpec": "wwwroot/Images/blacktea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/budda.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/budda.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/budda.jpeg",
       "AssetKind": "All",
@@ -1311,10 +1311,10 @@
       "OriginalItemSpec": "wwwroot/Images/budda.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/lapacho.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/lapacho.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/lapacho.jpeg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/Images/lapacho.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/lavenderapple.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/lavenderapple.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/lavenderapple.jpeg",
       "AssetKind": "All",
@@ -1345,10 +1345,10 @@
       "OriginalItemSpec": "wwwroot/Images/lavenderapple.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/masala.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/masala.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/masala.jpeg",
       "AssetKind": "All",
@@ -1362,10 +1362,10 @@
       "OriginalItemSpec": "wwwroot/Images/masala.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/matcha.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/matcha.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/matcha.jpeg",
       "AssetKind": "All",
@@ -1379,10 +1379,10 @@
       "OriginalItemSpec": "wwwroot/Images/matcha.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/peachtea.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/peachtea.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/peachtea.jpeg",
       "AssetKind": "All",
@@ -1396,10 +1396,10 @@
       "OriginalItemSpec": "wwwroot/Images/peachtea.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/taiga.jpeg",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/Images/taiga.jpeg",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "Images/taiga.jpeg",
       "AssetKind": "All",
@@ -1413,10 +1413,10 @@
       "OriginalItemSpec": "wwwroot/Images/taiga.jpeg"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/js/site.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/js/site.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1430,10 +1430,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1447,10 +1447,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1464,10 +1464,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1481,10 +1481,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1498,10 +1498,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1515,10 +1515,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1532,10 +1532,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1549,10 +1549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1566,10 +1566,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1583,10 +1583,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1600,10 +1600,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1617,10 +1617,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1668,10 +1668,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1685,10 +1685,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1702,10 +1702,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1719,10 +1719,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1736,10 +1736,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1753,10 +1753,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1770,10 +1770,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1787,10 +1787,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1804,10 +1804,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1821,10 +1821,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1838,10 +1838,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1855,10 +1855,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1872,10 +1872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1889,10 +1889,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1906,10 +1906,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1923,10 +1923,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1940,10 +1940,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1957,10 +1957,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2008,10 +2008,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2025,10 +2025,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2042,10 +2042,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2059,10 +2059,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2076,10 +2076,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2093,10 +2093,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2110,10 +2110,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2127,10 +2127,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2144,10 +2144,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2161,10 +2161,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2178,10 +2178,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2195,10 +2195,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2212,10 +2212,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2229,10 +2229,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2246,10 +2246,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2263,10 +2263,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2280,10 +2280,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2314,10 +2314,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2331,10 +2331,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2365,10 +2365,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2382,10 +2382,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Web_153505_Shevtsova_D",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dari/RiderProjects/PARASHA/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
+      "ContentRoot": "/home/dari/GitHub_Projects/Tea_shop/Web_153505_Shevtsova_D/Web_153505_Shevtsova_D/wwwroot/",
       "BasePath": "_content/Web_153505_Shevtsova_D",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
